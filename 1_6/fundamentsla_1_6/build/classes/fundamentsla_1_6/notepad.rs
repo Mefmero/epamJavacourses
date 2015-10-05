@@ -1,0 +1,2 @@
+fundamentsla_1_6.notepad
+fundamentsla_1_6.writetonotepad
